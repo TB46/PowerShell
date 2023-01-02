@@ -1,6 +1,6 @@
 ﻿Firstname,Lastname,Username,Department,Password,OU
-A,B,L12345679,PGDipCLOD2022,Passw0rd,"OU=Users,OU=PGDipCLOD2022,DC=ads,DC=solarsubmaines,DC=com"
-C,D,L00177558,PGDipCLOD2023,Passw0rd,"OU=Users,OU=PGDipCLOD2022,DC=ads,DC=solarsubmaines,DC=com"
+Aidan,Byrne,L12345679,PGDipCLOD2022,Passw0rd,"OU=Users,OU=PGDipCLOD2022,DC=ads,DC=solarsubmaines,DC=com"
+Colin,Daly,L00177558,PGDipCLOD2023,Passw0rd,"OU=Users,OU=PGDipCLOD2022,DC=ads,DC=solarsubmaines,DC=com"
 E,F,L00177769,PGDipCLOD2024,Passw0rd,"OU=Users,OU=PGDipCLOD2022,DC=ads,DC=solarsubmaines,DC=com"
 G,H,L00177770,PGDipCLOD2025,Passw0rd,"OU=Users,OU=PGDipCLOD2022,DC=ads,DC=solarsubmaines,DC=com"
 I,J,L00177772,PGDipCLOD2026,Passw0rd,"OU=Users,OU=PGDipCLOD2022,DC=ads,DC=solarsubmaines,DC=com"
